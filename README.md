@@ -1,8 +1,6 @@
-# assignment_demo_2023
+# Tiktok Assignment
 
-![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
-
-This is a demo and template for backend assignment of 2023 TikTok Tech Immersion.
+This is a instant messaging service implementation with Redis as required for Tiktok Immersion 2023.
 
 ## Installation
 
